@@ -20,7 +20,7 @@ With over 6 years of professional experience, I am a highly skilled full-stack d
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-Framework-blue" alt=".NET Framework">
   <img src="https://img.shields.io/badge/C%23-Expert-brightgreen" alt="C#">
-  <img src="https://img.shields.io/badge/ASP.NET-MVC-orange" alt="ASP.NET MVC">
+  <img src="https://img.shields.io/badge/ASP.NET-CORE-orange" alt="ASP.NET CORE">
   <img src="https://img.shields.io/badge/Entity%20Framework-purple" alt="Entity Framework">
   <img src="https://img.shields.io/badge/Angular-10-red" alt="Angular 10">
   <img src="https://img.shields.io/badge/Azure-Cloud-blueviolet" alt="Azure">
