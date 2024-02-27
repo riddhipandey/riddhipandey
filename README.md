@@ -32,7 +32,7 @@ With over 6 years of professional experience, I am a highly skilled full-stack d
   <a href="https://www.linkedin.com/in/riddhi-pandey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
-  <a href="mailto:pandeyriddhi706@email.com">
+  <a href="mailto:pandeyriddhi.rp@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email">
   </a>
 </p>
